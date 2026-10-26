@@ -35,6 +35,7 @@ function Logo({ light = false, large = false }) {
           </svg>
         </span>
       </span>
+      <span></span>
 
       <span className="flex flex-col">
         <span className="flex items-center gap-2">
